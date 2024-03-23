@@ -60,7 +60,7 @@ You'll also need a stable Rust compiler.
       * Implemented by combining a set with a queue
     * hash-consing machinery
   * `examples/circ.rs`
-    * This is the entry point to the zokrates copiler
+    * This is the entry point to the zokrates compiler
 
 ## Backends
 
